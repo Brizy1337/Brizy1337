@@ -38,5 +38,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Compiling-To-Native&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="bolstruk's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Compiling-To-Native&count_private=true&theme=radical" alt="Compiling-To-Native" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Compiling-To-Native&count_private=true&theme=radical" alt="Compiling-To-Native" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bizy1337count_private=true&theme=radical" alt="bizy1337 />
  
