@@ -28,11 +28,6 @@
 - => Python
 
 
-<h3 title="hehehe"> My INT-rests < get the joke? haha -_-</h3>
- 
-Soon
-
-
 
 
 **Languages I Know:**  
