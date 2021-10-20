@@ -8,7 +8,7 @@
 - REPEAT
 <h3 title="hehehe"> Hey, Im Brizy</h3>
 
-<a href="https://www.instagram.com/Brizy/">
+<a href="https://www.instagram.com/Brizy.sh/">
   <img align="left" alt="Brizy's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/Brizy.sh">
