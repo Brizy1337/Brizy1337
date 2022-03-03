@@ -1,11 +1,4 @@
-# About Me
- - Wake
-- Shower
-- Breakfast
-- Code
-- Learn
-- Sleep
-- REPEAT
+
 <h3 title="hehehe"> Hey, I'm Brizy!</h3>
 
 <a href="https://www.instagram.com/Brizy.sh/">
