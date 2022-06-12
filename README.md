@@ -1,7 +1,7 @@
 
 <h3 title="hehehe"> Hey, I'm Brizy!</h3>
 
-<a href="https://www.instagram.com/Brizy.rb/">
+<a href="https://www.instagram.com/Brizy.cc/">
   <img align="left" alt="bolstruk's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
